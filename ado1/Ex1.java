@@ -1,9 +1,5 @@
 package ado1;
 
-//Vitor gabriel melo Silva
-//Mateus Soares Costa
-
-
 import java.util.Arrays;
 
 public class Ex1 {
