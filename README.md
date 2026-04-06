@@ -1,2 +1,2 @@
 # Inicio-buscas-e-ordenaccao
-iniciando os conceitos de ordenação e buscas
+oque estou aprendendo na materia de ALGORITMOS 2 na faculdade!
